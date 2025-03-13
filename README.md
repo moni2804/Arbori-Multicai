@@ -22,7 +22,7 @@ Acest proiect implementează operații pe arbori multicăi, inclusiv parcurgerea
    - **R2**: Afișează arborele multicăi cu relațiile părinte-copii.
    - **R3**: Afișează arborele binar echivalent.
 
-##Complexitate
+## Complexitate
 
    - **Timp**: Toate transformările și parcurgerile sunt eficiente cu complexitate O(n).
    - **Memorie**: Memoria suplimentară folosită este minimă și depinde de mărimea arborelui (O(n)).
